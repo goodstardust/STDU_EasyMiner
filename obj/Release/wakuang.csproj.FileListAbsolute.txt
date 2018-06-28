@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\wakuang.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\wakuang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Administrator\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
